@@ -1,0 +1,23 @@
+.myworks-thumb{
+	padding:20px;
+}
+.myworks-thumb img{
+	padding: 5px 10px;
+}
+.device-img{
+	padding: 10px  25px;
+	margin: 0 auto;
+}
+.title-category{
+	font-size: 1.3em;
+	font-weight: 800;
+	color: #333333;
+}
+.media-large{
+	max-width: 80%;
+}
+p.caption{
+	font-size: 0.6em;
+	color: #fff;
+	text-decoration: none;
+}
